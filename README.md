@@ -1,4 +1,4 @@
-# E-commerce
+# Accessories-store
 Landing Page
 
 ![](pics/Landing.PNG)
